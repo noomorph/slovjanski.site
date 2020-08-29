@@ -1,4 +1,4 @@
-<h1 align=center>ПЪЛЕНЪ<br>Руско-Български<br>РѢЧНИК</h1>
+<h1 align=center>ПЪЛЕНЪ<br>Руско-Български<br>РѢЧНИКЪ</h1>
 
 <p align=center>
 съставили по<br>
